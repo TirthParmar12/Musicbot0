@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ALON ꭙ BAD 」──
+    ──「 ## THE PROFESSOR ## 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/2ffb4ea8a2e82c0deb655.jpg">
+  <img src="https://envs.sh/0kR.jpg">
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/0c40d1fc5f17c524a6c16.jpg">
+  <img src="https://envs.sh/0kR.jpg">
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 ## THE PROFESSOR ## 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TMM-TEAM/NobimusicV2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+    ─「 ## THE PROFESSOR ## 」─
 </h3>
 
 - Get your [Necessary Variables](https://github.com/TMM-TEAM/NobimusicV2/blob/master/sample.env)
